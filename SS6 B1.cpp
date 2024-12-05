@@ -6,7 +6,7 @@
 	 	i++; 
 	 	printf("moi ban nhap so thu %d\n ",i);
 	 	scanf("%d",&n); 
-			if(n % 2 != 0) {
+			if(n % 2 !=  0) {
 				sum += n; 
 			} 
 	 }while(i!=5);
